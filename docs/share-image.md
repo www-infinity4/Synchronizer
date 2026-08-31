@@ -1,0 +1,1 @@
+Built-in image-generation tool. Landscape social card for Synchronizer. Exact title: SYNCHRONIZER. Supporting text: EIGHT FILMS. EIGHT FREQUENCIES.. Original cinematic collage with film and vinyl imagery, bold typography and generous safe margins. Asset: assets/share-preview-v1.png.

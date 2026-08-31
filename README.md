@@ -58,3 +58,6 @@ To edit: change app/page.tsx, app/theater.css or lib/program.mjs; run `npm insta
 - The Lost World: [film source](https://archive.org/details/TheLostWorldCompleteVideoQualityUpgrade) · [album source](https://www.youtube.com/playlist?list=PL02pDPRbhcyaas4VyaJCk9CszCZ88-_3F)
 
 The machine-readable source filenames, artist choices, playlist IDs and runtimes are in lib/program.mjs.
+
+## Sharing and unified wallet
+A shared wallet bar offers native sharing, copy-link fallback, and an X post composer. Confirmed sharing earns 0.1 StarCoin once per site per wallet. Opening a composer or copying a link alone earns nothing; manual confirmation is self-reported. Credits use the same browser-local wallet as StarQuest’s unified-wallet integration, not its separate cloud ledger. Pending claims retry on return. Social preview metadata is in index.html and the card is assets/share-preview-v1.png.
